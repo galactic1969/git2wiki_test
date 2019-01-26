@@ -1,13 +1,13 @@
 # image syntax
 ## some image syntax in a line
 
-test ![image1](../images/folder.png) ![image2](../images/rocket.png) ![image2](../images/folder.png)
-![image1](../images/folder.png) ![image2](../images/rocket.png) ![image2](../images/folder.png) test
+test ![image1](../images/logo01.png) ![image2](../images/logo02.png) ![image2](../images/logo01.png)
+![image1](../images/logo01.png) ![image2](../images/logo02.png) ![image2](../images/logo01.png) test
 
 ## an image syntax in a line
 
-test ![image1](../images/folder.png)
-![image1](../images/folder.png) test
+test ![image1](../images/logo01.png)
+![image1](../images/logo02.png) test
 
 # link syntax
 
