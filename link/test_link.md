@@ -35,5 +35,5 @@ test [file](../files/samplefile.txt)
 
 ## some file syntax in a line
 
-test [file](./files/samplefile.txt) と [file](./files/samplefile2.txt)
+test [file](../files/samplefile.txt) と [file](../files/samplefile2.txt)
 [file](../files/samplefile.txt) と [file](../files/samplefile2.txt) test
