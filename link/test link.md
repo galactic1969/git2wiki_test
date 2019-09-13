@@ -28,6 +28,11 @@ test [link1](./test_inbound_link.md)
 test [link1](./test_inbound_link.md) と  [link2](./inbound_link_depth/test_inbound_link.md)
 [link1](./test_inbound_link.md) と  [link2](./inbound_link_depth/test_inbound_link.md) test
 
+## index file link
+
+test [link1](./index.md)
+test [link1](./index.md) と  [link2](../add/index.md)
+
 ## other link
 
 [google](https://google.co.jp)
